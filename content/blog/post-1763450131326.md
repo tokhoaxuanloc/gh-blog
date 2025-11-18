@@ -1,0 +1,1 @@
+{{ $node["AI Agent - Content Writer"].json.output }}
